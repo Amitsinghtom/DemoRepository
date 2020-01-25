@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 deleted the trash of this file
+=======
+added version of code
+>>>>>>> bugfix
